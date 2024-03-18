@@ -6,7 +6,7 @@ void main() {
   double c = 2;
 //this is a quadratic equation
   double discriminant = b * b - 4 * a * c;
-
+//i am on the payment branch
   if (discriminant > 0) {
     double root1 = (-b + sqrt(discriminant)) / (2 * a);
     double root2 = (-b - sqrt(discriminant)) / (2 * a);
