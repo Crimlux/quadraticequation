@@ -4,7 +4,7 @@ void main() {
   double a = 1;
   double b = -3;
   double c = 2;
-
+//this is a quadratic equation
   double discriminant = b * b - 4 * a * c;
 
   if (discriminant > 0) {
